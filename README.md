@@ -35,4 +35,4 @@ A powerful Android application for tracking real-time cryptocurrency prices and 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Coin.git
+git clone https://github.com/Amirhajilojava1380/Coin.git
